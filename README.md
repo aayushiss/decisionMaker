@@ -1,10 +1,20 @@
 # magic_8_ball2
 
-A new Flutter project.
+An entertaining decision maker app built with Flutter. Ask a question and get amusing answers from the Magic Ball!
+
+## Features
+
+- **Ask a Question**: Think of a yes-or-no question and ask the Magic Ball.
+- **Random Responses**: Enjoy a variety of amusing and unpredictable answers.
+- **Sleek Design**: Experience an elegant and intuitive user interface.
+
+## Screenshots
+![Screenshot_20240618_190136](https://github.com/aayushiss/decisionMaker/assets/114438821/4f163a72-2537-4b19-bcd2-c7897ec4f021)
+![Screenshot_20240618_190542](https://github.com/aayushiss/decisionMaker/assets/114438821/5390b854-a838-44b2-a344-835ad3928803)
+![Screenshot_20240618_190553](https://github.com/aayushiss/decisionMaker/assets/114438821/1aa7c388-1da9-4993-88c5-9ee0c649f729)
+
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
