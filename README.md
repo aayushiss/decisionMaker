@@ -10,14 +10,13 @@ An entertaining decision maker app built with Flutter. Ask a question and get am
 
 ## Screenshots
 <p align="center">
-  <img src="[https://github.com/your-username/AndroidProjects/blob/main/screenshot1.png](https://github.com/aayushiss/decisionMaker/assets/114438821/4f163a72-2537-4b19-bcd2-c7897ec4f021)" alt="Screenshot 1" width="300">
-  <img src="[https://github.com/your-username/AndroidProjects/blob/main/screenshot2.png](https://github.com/aayushiss/decisionMaker/assets/114438821/5390b854-a838-44b2-a344-835ad3928803)" alt="Screenshot 2" width="300">
+  <img src="https://github.com/aayushiss/decisionMaker/assets/114438821/4f163a72-2537-4b19-bcd2-c7897ec4f021" alt="Screenshot 1" width="300">
+  <img src="https://github.com/aayushiss/decisionMaker/assets/114438821/5390b854-a838-44b2-a344-835ad3928803" alt="Screenshot 2" width="300">
 </p>
 
 ![Screenshot_20240618_190136](https://github.com/aayushiss/decisionMaker/assets/114438821/4f163a72-2537-4b19-bcd2-c7897ec4f021)
 ![Screenshot_20240618_190542](https://github.com/aayushiss/decisionMaker/assets/114438821/5390b854-a838-44b2-a344-835ad3928803)
 ![Screenshot_20240618_190553](https://github.com/aayushiss/decisionMaker/assets/114438821/1aa7c388-1da9-4993-88c5-9ee0c649f729)
-
 
 ## Getting Started
 
